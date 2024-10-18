@@ -3,7 +3,7 @@
 
 const char* ssid = "jaoc";
 const char* pswd = "********";
-const char* serverUrl = "http://192.168.0.10:8080"; // Server ip
+const char* serverUrl = "http://192.168.XX.XX:8080"; // Server ip
 
 void setup() {
   Serial.begin(115200);
