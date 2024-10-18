@@ -2,7 +2,7 @@
 #include <HTTPClient.h>
 
 const char* ssid = "jaoc";
-const char* pswd = "n3wp4ss9904";
+const char* pswd = "********";
 const char* serverUrl = "http://192.168.0.10:8080"; // Server ip
 
 void setup() {
